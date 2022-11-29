@@ -1,0 +1,6 @@
+DEFINE my_first my_first
+ASSIGN my_first libMode shared
+DEFINE Generic_250nm_Devices ..\..\Process\Generic_250nm\Generic_250nm_Devices
+ASSIGN Generic_250nm_Devices libMode shared
+DEFINE Misc ..\..\Process\Standard_Libraries\Misc
+ASSIGN Misc libMode shared
