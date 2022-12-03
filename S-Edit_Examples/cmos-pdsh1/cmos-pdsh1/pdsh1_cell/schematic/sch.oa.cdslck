@@ -1,0 +1,16 @@
+#
+# Edit Lock-Stake file. CAUTION: Please do not change.
+#
+# Information about current Edit Lock Owner.
+#
+LockStakeVersion               1.1
+LoginName                      MONSTER
+HostName                       DESKTOP-VMDEDGH
+ProcessIdentifier              3728
+ProcessCreationTime_UTC        1669278446
+ProcessCreationTime_Readable   Thu Nov 24 11:27:26 2022 Türkiye Standart Saati
+AppIdentifier                  OA File System Design Manager
+OSType                         win32
+ReasonForPlacingEditLock       OpenAccess edit lock
+FilePathUsedToEditLock         C:\Users\MONSTER\Documents\TannerEDA\TannerTools_v2019.2\S-Edit_Examples\cmos-pdsh1\cmos-pdsh1\pdsh1_cell\schematic\sch.oa.cdslck.dirlck
+TimeEditLocked                 Thu Nov 24 11:27:38 2022 Türkiye Standart Saati

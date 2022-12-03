@@ -1,0 +1,10 @@
+DEFINE cmos#2dpdsh1 cmos-pdsh1
+ASSIGN cmos#2dpdsh1 libMode shared
+DEFINE SPICE_Sources ..\..\Process\Standard_Libraries\SPICE_Sources
+ASSIGN SPICE_Sources libMode shared
+DEFINE Devices ..\..\Process\Standard_Libraries\Devices
+ASSIGN Devices libMode shared
+DEFINE Misc ..\..\Process\Standard_Libraries\Misc
+ASSIGN Misc libMode shared
+DEFINE Generic_250nm_Devices ..\..\Process\Generic_250nm\Generic_250nm_Devices
+ASSIGN Generic_250nm_Devices libMode shared
